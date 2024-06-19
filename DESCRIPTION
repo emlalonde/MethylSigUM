@@ -1,0 +1,11 @@
+Package: MethylSigUM
+Title: MethylSig-UM 
+Version: 0.0.1
+Authors@R: 
+    person(given = "Emilie", family = "Lalonde", role = c("aut", "cre"), email = "emilie.lalonde@gmail.com")
+Description: Apply MethylSig-UM, a metastasis prediction model for primary uveal melanoma.
+License: `GPL-2`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1.9000
+LazyLoad: true
